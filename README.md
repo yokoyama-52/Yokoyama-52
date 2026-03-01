@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size24&center=true&width=500&height=100&lines=Welcome+to+my+Github+profile!;こんにちは">
+</p>
+
+## Skills
+
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: Flutter
+- **Tools**: Git, Figma, VS Code
+
