@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Skills
 
-- **Languages**: JavaScript, Python, Java
-- **Frameworks**: Flutter
+- **Languages**: JavaScript, Python, Java, Dart, C
+- **Frameworks**: Flutter, Next.js
 - **Tools**: Git, Figma, VS Code
 
